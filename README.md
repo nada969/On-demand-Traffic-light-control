@@ -1,4 +1,5 @@
 # On-demand-Traffic-light-control
+for EgFWD Embedded Systems Professional Nanodegree Program
 # Brief
 Traffic lights are devices placed at road intersections, crosswalks, and various points to manage traffic flow. They typically feature three signals that convey instructions to drivers and pedestrians using colors and symbols, including arrows and bicycle icons. In the standard configuration, the traffic light displays colors vertically or horizontally in the order of red, yellow, and green.
 The objective here is to create a traffic light system that includes a pedestrian-controlled crosswalk button. When pedestrians intend to cross the street, they can use the crosswalk button to signal the traffic light system. In response, the traffic light adjusts its signals, ensuring that pedestrians have ample time to safely cross the road.
