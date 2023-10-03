@@ -23,4 +23,6 @@ The objective here is to create a traffic light system that includes a pedestria
   # I used:
   - Microship Studio
   - Proteus
-  
+
+  # Videos
+  https://drive.google.com/drive/folders/1qKA0or3yC7oFKIGorN0WuWfbH2HbjvPd?usp=sharing
